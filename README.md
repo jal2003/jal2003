@@ -7,12 +7,13 @@
 
 👨‍💻 New technology? Count me in! I'm always eager to explore the latest in the tech realm.
 
-🍝 From spicy curries to tangy tacos, I'm all about savoring diverse cuisines. But, let's be real – nothing beats a plate of pasta. So many delicious variations! 🍝
+🍝 From spicy curries to tangy tacos, I'm all about savoring diverse cuisines. But, let's be real – nothing beats a plate of pasta.
 
 🏋️‍♂️ The gym? That's my second home. Nothing like lifting weights to lift the spirits!
 
 ✈️ Wanderlust runs in my veins. Traveling is not just a hobby; it's a passion.
 
+_____________________________________________________________________________________________________________________________
 
 ## 🛠️ Skills
 
