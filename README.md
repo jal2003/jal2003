@@ -13,9 +13,6 @@
 
 ✈️ Wanderlust runs in my veins. Traveling is not just a hobby; it's a passion.
 
---- 
-
-Feel free to adjust based on your preferences or any other nuances you want to capture!
 
 ## 🛠️ Skills
 
