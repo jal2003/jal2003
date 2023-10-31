@@ -1,12 +1,9 @@
-### Hi there 👋
-
-
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🚀 About Me
 
-🎓 I am Jal Desai, an **aspiring Software Developer**. I am also Pursuing my Bachelor in **Computational Mathematics** and in my third year at University of Waterloo 
+🎓 I am Jal Desai, an **aspiring Software Engineer**. I am also Pursuing my Bachelor in **Computational Mathematics** and in my third year at University of Waterloo 
 
 👨‍💻 I am really enthusiastic about learning new technology. 
 
