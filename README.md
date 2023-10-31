@@ -3,15 +3,19 @@
 
 ## 🚀 About Me
 
-🎓 I am Jal Desai, an **aspiring Software Engineer**. I am also Pursuing my Bachelor in **Computational Mathematics** and in my third year at University of Waterloo 
+🎓 Hey there! I'm Jal Desai, diving deep into the world of software engineering as I journey through my 3rd year in Computational Mathematics at the University of Waterloo.
 
-👨‍💻 I am really enthusiastic about learning new technology. 
+👨‍💻 New technology? Count me in! I'm always eager to explore the latest in the tech realm.
 
-🍝 I always love to try, **new foods**, my favourite dish is **Pasta** (I learned there is so many variations) .
+🍝 From spicy curries to tangy tacos, I'm all about savoring diverse cuisines. But, let's be real – nothing beats a plate of pasta. So many delicious variations! 🍝
 
-🏋️‍♂️ I LOVE working out, being in the gym 
+🏋️‍♂️ The gym? That's my second home. Nothing like lifting weights to lift the spirits!
 
-✈️ I love **traveling** too. 
+✈️ Wanderlust runs in my veins. Traveling is not just a hobby; it's a passion.
+
+--- 
+
+Feel free to adjust based on your preferences or any other nuances you want to capture!
 
 ## 🛠️ Skills
 
