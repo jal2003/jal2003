@@ -1,6 +1,4 @@
 
-## 🚀 About Me
-
 <h1 align ="center">👋 Hi, I’m Jal Desai!</h1>
 <h4> I am a student studying Computational Mathematics at the University of Waterloo.</h4>
 
