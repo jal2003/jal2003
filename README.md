@@ -2,7 +2,7 @@
 <h1 align ="center">👋 Hi, I’m Jal Desai!</h1>
 <h4> I am a student studying Computational Mathematics at the University of Waterloo.</h4>
 
-<h3>:blush: I’m interested in:</h3>
+<h3>😎: I’m interested in:</h3>
 <li> Artificial Intelligence/Machine Learning </li>
 <li> Full-Stack Development </li>
 <li> Cloud Development </li>
