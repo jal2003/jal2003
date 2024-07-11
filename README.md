@@ -1,6 +1,6 @@
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-
+![](https://komarev.com/ghpvc/?username=jal2003&label=Profile%20Visits&color=blue&style=for-the-badge)
 ## 🚀 About Me
 
 🎓 Hey there! I'm Jal Desai, diving deep into the world of software engineering as I journey through my 3rd year in Computational Mathematics at the University of Waterloo.
