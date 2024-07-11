@@ -48,6 +48,7 @@ ________________________________________________________________________________
 ![firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+![](https://komarev.com/ghpvc/?username=jal2003&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 
 
