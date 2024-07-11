@@ -51,9 +51,5 @@ ________________________________________________________________________________
 
 
 
-![](https://komarev.com/ghpvc/?username=jal2003&label=Profile%20Visits&color=blue&style=for-the-badge)
-
-
-
 
 
