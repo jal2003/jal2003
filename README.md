@@ -1,6 +1,6 @@
 
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 ## 🚀 About Me
+
 <h1 align ="center">👋 Hi, I’m Jal Desai!</h1>
 <h4> I am a student studying Computational Mathematics at the University of Waterloo.</h4>
 
@@ -10,12 +10,13 @@
 <li> Cloud Development </li>
 
 
+
+_____________________________________________________________________________________________________________________________
 <h3>📫 Get in touch</h3>
+
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jal-desai-104580200/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ruppysuppy)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:j9desai@uwaterloo.ca)
-_____________________________________________________________________________________________________________________________
-
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:j9desai@uwaterloo
 ## 🛠️ Skills
 
 ### Languages
