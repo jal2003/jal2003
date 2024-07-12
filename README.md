@@ -7,7 +7,7 @@
 <li> Full-Stack Development </li>
 <li> Cloud Development </li>
 
-<h3>📫 Get in touch</h3>
+<h3>📫 Get in touch</h3> 
 
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jal-desai-104580200/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:j9desai@uwaterloo)
